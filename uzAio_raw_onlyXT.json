@@ -137,7 +137,7 @@
     },
     {
         "name": "[嗅]耐看影视",
-        "api": "https://raw.githubusercontent.com/ncnc8388/uzVideo-extensions-beta/refs/heads/main/vod/xt/nkvod.js",
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/ncnc8388/uzVideo-extensions-beta/refs/heads/main/vod/xt/nkvod.js",
         "webSite": "https://www.nkvod.me",
         "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
         "version": "1",
