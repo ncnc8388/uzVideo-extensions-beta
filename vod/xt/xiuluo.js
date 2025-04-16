@@ -1,7 +1,7 @@
 // ignore
-//@name:[嗅]老王电影
+//@name:[嗅]修罗电影
 //@version:1
-//@webSite:https://laowang.co
+//@webSite:https://v.xlys.ltd.ua
 //@remark:
 // ignore
 
@@ -14,7 +14,7 @@ const isUsePC = 1
 const isAddReferer = 1
 
 // 网站主页
-const webSite = 'https://v.xlys.ltd.ua/'
+const webSite = 'https://v.xlys.ltd.ua'
 // 网站搜索
 // https://laowang.co/s.html?wd=%E7%94%84%E5%AC%9B%E4%BC%A0
 // 把网站主页变成 @{webSite} 把搜索词变成 @{searchWord}  把页码变成 @{page}
