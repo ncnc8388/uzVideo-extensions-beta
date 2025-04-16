@@ -185,7 +185,7 @@
     },
     {
         "name": "[嗅]海纳TV",
-        "api": "https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]海纳TV.js",
+        "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/woleigedouer/uzVideo-extensions-beta/refs/heads/main/vod/xt/[嗅]海纳TV.js",
         "webSite": "https://www.hainatv.net",
         "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
         "version": "1",
