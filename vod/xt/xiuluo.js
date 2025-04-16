@@ -9,7 +9,7 @@
 // 不能保证一定能用，不能用的欢迎反馈
 
 /// 是否模拟 PC 是 1， 手机是 0
-const isUsePC = 0
+const isUsePC = 1
 /// 默认应该是 0，当视频不能播放的时候，可以把这个设置为 1， 否则不要改动
 const isAddReferer = 1
 
@@ -34,13 +34,13 @@ const firstClass = [
         name: '电影',
         // https://laowang.co/vs/1--------2---.html
         // 把网站主页变成 @{webSite}  把页码变成 @{page}
-        id: '@{webSite}/s/all/@{page}?type=1',
+        id: '@{webSite}/s/all/@{page}?type=0',
     },
     {
         name: '电视剧',
         // https://laowang.co/vs/2--------2---.html
         // 把网站主页变成 @{webSite}  把页码变成 @{page}
-        id: '@{webSite}/s/all/@{page}?type=2',
+        id: '@{webSite}/s/all/@{page}?type=1',
     },
     {
         name: '动漫',
